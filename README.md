@@ -1,0 +1,2 @@
+Aplicación lista de tareas con fecha, en la que cada tarea agregada se posicionará según la fecha ingresada. Botón de checklist para marcar las tareas realizadas y botón de eliminar.
+Este desafío formó parte del aprendizaje sobre el almacenamiento de datos en el navegador y la manipulación del DOM.
